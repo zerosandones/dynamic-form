@@ -16,7 +16,7 @@
     "module": "preserve",
     "paths": {
       "zo-dynamic-form": [
-        "./dist/zo-dynamic-form"
+        "./projects/zo-dynamic-form/src/public-api.ts"
       ]
     }
   },
